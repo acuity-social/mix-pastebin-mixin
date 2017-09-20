@@ -1,0 +1,9 @@
+/**
+ * Protocol Buffers schema for a pastebin mixin.
+ */
+
+syntax = "proto3";
+
+message PastebinMixin {
+  string text = 1;
+}
