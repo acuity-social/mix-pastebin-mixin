@@ -1,2 +1,2 @@
-# link-pastebin-mixin-schema
-LINK schema of a pastebin mixin.
+# mix-pastebin-mixin-schema
+MIX schema of a pastebin mixin.
